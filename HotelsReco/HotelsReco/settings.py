@@ -89,7 +89,7 @@ DATABASES = {
 LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'UTC'
-#TIME_ZONE = 'NZDT'
+# TIME_ZONE = 'NZDT'
 
 USE_I18N = True
 
