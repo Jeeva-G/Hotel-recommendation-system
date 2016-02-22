@@ -1,3 +1,4 @@
+"""This file has regular expressions to parse & redirect apps request."""
 from django.conf.urls import include, url
 from django.contrib import admin
 
